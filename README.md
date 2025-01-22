@@ -16,12 +16,6 @@ The project aims to explore and compare various transformer-based architectures 
   - [Masked Autoencoder (MAE)](#masked-autoencoder-mae)
   - [CLS Token](#cls-token)
   - [InfoNCE Loss](#infonce-loss)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributors](#contributors)
-- [License](#license)
-
 ---
 
 ## Project Overview
